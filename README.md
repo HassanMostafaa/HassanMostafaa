@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HassanMostafaa
 - 👀 I’m a Front-End Web Developer 
-- 🌱 I’m currently learning Nextjs, GraphQL, Angular, Vue 
-- 💞️ I’m looking forward to landing my first dev position and learn more about working on real-life projects
-- 📫 My Linkedin Profile: https://www.linkedin.com/in/hassanmostafaa/
+- 🌱 Currently learning Nextjs, GraphQL, Angular, Vue 
+- 📫 Linkedin Profile: https://www.linkedin.com/in/hassanmostafaa/
 
 <!---
 HassanMostafaa/HassanMostafaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
